@@ -9,6 +9,8 @@ Voici deux références qui t'aideront :
  - [Création d'un dossier](https://github.com/KarineLEcuyer/H22_TIM_portfolio_consignes/blob/main/information_complementaire/creation_dossier.md)
  - [Insérer une photographie dans un fichier .md](https://github.com/KarineLEcuyer/H22_TIM_portfolio_consignes/blob/main/information_complementaire/inserer_photo.md)
 
+Également, assure-toi de bien suivre les règles de nommage qui sont indiquées (Lemay_20220202)
+
 Bonne journée,
 
 Karine
